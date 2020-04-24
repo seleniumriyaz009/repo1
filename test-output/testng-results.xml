@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="44440" started-at="2020-04-24T06:56:27Z" finished-at="2020-04-24T06:57:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="44440" started-at="2020-04-24T06:56:27Z" finished-at="2020-04-24T06:57:11Z">
+      <class name="regression.DBTesting2">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:regression.DBTesting2@1b26f7b2]" name="setUp" is-config="true" duration-ms="12968" started-at="2020-04-24T06:56:28Z" finished-at="2020-04-24T06:56:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateRegistrationTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:regression.DBTesting2@1b26f7b2]" name="validateRegistrationTest" duration-ms="7951" started-at="2020-04-24T06:56:41Z" data-provider="getData" finished-at="2020-04-24T06:56:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rajya]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Lakshmi]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[22222222]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[lakshmi@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[terytghghg]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[hyd]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[ap]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[325443546]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[INDIA]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Lakshmi]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[lakshmi]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[lakshmi]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateRegistrationTest -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:regression.DBTesting2@1b26f7b2]" name="setUp" is-config="true" duration-ms="13551" started-at="2020-04-24T06:56:48Z" finished-at="2020-04-24T06:57:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateRegistrationTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:regression.DBTesting2@1b26f7b2]" name="validateRegistrationTest" duration-ms="9087" started-at="2020-04-24T06:57:02Z" data-provider="getData" finished-at="2020-04-24T06:57:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sharma]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Neelam]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[33333333]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[neelam@yahoo.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[vbvnvn]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Virginia]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[virginia]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[566765765]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[UNITED STATES]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[neelam]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[neelam]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[neelam]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateRegistrationTest -->
+      </class> <!-- regression.DBTesting2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

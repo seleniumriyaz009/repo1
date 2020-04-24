@@ -1,0 +1,11 @@
+regression\DBTesting2.class
+regression\GmailUsingProperties.class
+regression\GmailLoginGrid.class
+smoke\ChromeLanch.class
+regression\ValidateRegistration2.class
+regression\ValidateRegistration.class
+regression\ValidateRegistration3.class
+keyword\LoginKeywords.class
+regression\ValidateLogin.class
+regression\DBTesting1.class
+regression\LoginUsingKeywords.class
