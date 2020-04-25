@@ -33,9 +33,9 @@ public class ValidateLogin {
 		
 		String expData="Login Successfully";
 		
-		String actData=driver.findElement(By.xpath("//tbody/tr/td/h3")).getText();
+		//String actData=;
 		
-		Assert.assertEquals(expData, actData);
+		Assert.assertEquals(expData, driver.findElement(By.xpath("//tbody/tr/td/h3")).getText());
 			
 		
 		
